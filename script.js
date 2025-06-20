@@ -11,10 +11,10 @@ const cover = document.getElementById('cover');
 const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
-const songs = ['hero', 'リレイアウタ', 'ビビデバ'];
+const songs = ['Hero', 'リレイアウタ', 'ビビデバ'];
 
 const songInfo = {
-  hero: {
+  Hero: {
     title: "Hero (Instrumental)",
     details: "Artist: Mili<br>Album: Single<br>Year: 2024<br>Description: Couldn't find a good instrumental so I recorded this myself on my Strich sdp 120."
   },
