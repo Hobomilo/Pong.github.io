@@ -1,4 +1,3 @@
-// Global Variables
 var DIRECTION = {
     IDLE: 0,
     UP: 1,
